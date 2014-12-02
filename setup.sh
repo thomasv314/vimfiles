@@ -13,7 +13,7 @@ fi
 git submodule update --init --recursive
 
 # Install youcompleteme ctags
-#./bundle/youcompleteme/install.sh --clang-completer
+./bundle/youcompleteme/install.sh --clang-completer
 
 # Link git repo to vim stuffs
 if [ -e ~/.vimrc ]; then
