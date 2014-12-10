@@ -16,6 +16,7 @@ set autoindent
 " Enable ctrlp.vim
 set runtimepath^=~/.vim/bundle/ctrlp.vim
 
+colorscheme vividchalk
 
 " Enable mouse use in all modes
 set ttyfast
